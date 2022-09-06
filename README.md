@@ -11,3 +11,28 @@ The script `main.py` will fetch and store AQI once and die. To continuously fetc
 ### Visualizing data
 
 A visualization script is available in `visualization/` folder. It might need some tweaking according to the needs. The script can read a CSV file as data source. SQLite db can also be used with some minor tweaking.
+<<<<<<< HEAD
+=======
+
+All the graphs shown below ranges from February 2020 to January 2021
+
+#### Monthly average AQI of Feb 2020 – Jan 2021
+![avg aqi of a year](images/year.png)
+
+-------------------------------------------
+
+#### Hourly average AQI of Dry and Rainy season
+![avg aqi of dry season](images/Hourly_dry.png)
+
+![avg aqi of rainy season](images/Hourly_rainy.png)
+
+-------------------------------------------
+
+#### December, one of the worst month of the year
+
+![avg aqi of December](images/December.png)
+
+#### August, one of the best month of the year
+
+![avg aqi of August](images/August.png)
+>>>>>>> d3591bb (update README with visualization)
